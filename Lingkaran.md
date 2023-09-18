@@ -16,5 +16,6 @@ print luas dan keliling
 graph TD;
     A([Start])-->B{{double pi, jari-jari}};
     B{{double pi, jari-jari}}-->C[/input jari-jari/];
-    C[/input jari-jari/]-->D(luas = pi * jari-jari * jari-jari\ keliling = 2 * pi * jari-jari);
+    C[/input jari-jari/]-->D(luas = pi * jari-jari * jari-jari keliling = 2 * pi * jari-jari);
+    D(luas = pi * jari-jari * jari-jari keliling = 2 * pi * jari-jari)-->E([Selesai]);
 ```
