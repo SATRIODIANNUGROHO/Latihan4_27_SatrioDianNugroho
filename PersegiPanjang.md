@@ -1,6 +1,6 @@
 # Luas dan Keliling Persegi Panjang #
 # Pseudocode #
-Deklarasi : float panjang, lebar, luas, keliling 
+deklarasi : float panjang, lebar, luas, keliling 
 
 input panjang = read panjang\
 input lebar = read lebar
