@@ -6,12 +6,12 @@ input panjang = read panjang
 input lebar = read lebar
 
 luas = panjang * lebar 
-\nkeliling = (panjang + lebar) * 2
+keliling = (panjang + lebar) * 2
 
 print luas dan keliling
 
 ```mermaid
-flowchart TD;
+graph TD;
   id1([Start])-->id2{{int panjang, lebar, luas, keliling}}
   id2{{int panjang, lebar, luas, keliling}}-->id3[/input panjang, lebar/]
   id3[/input panjang, lebar/]-->id4(luas = panjang * lebar keliling = (panjang + lebar) * 2)
