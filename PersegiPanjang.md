@@ -12,8 +12,8 @@ print luas dan keliling
 
 ```mermaid
 graph TD;
-    a([Start])-->b{{int panjang, lebar, luas, keliling}};
-    b{{int panjang, lebar, luas, keliling}}-->c[/input panjang, lebar/];
-    c[/input panjang, lebar/]-->d(luas = panjang * lebar keliling = (panjang + lebar) * 2);
+    A([Start])-->B{{int panjang, lebar, luas, keliling}};
+    B{{int panjang, lebar, luas, keliling}}-->C[/input panjang, lebar/];
+    C[/input panjang, lebar/]-->D(luas = panjang * lebar keliling = (panjang + lebar) * 2);
 
 ```
