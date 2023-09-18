@@ -14,6 +14,5 @@ print luas dan keliling
 flowchart TD;
   id1([Start]) --> id2{{int panjang, lebar, luas, keliling}}
   id2{{int panjang, lebar, luas, keliling}} --> id3[/input panjang, lebar/]
-  id3[/input panjang, lebar/] --> id4(luas = panjang * lebar
-  keliling = (panjang + lebar) * 2)
+  id3[/input panjang, lebar/] --> id4(luas = panjang * lebar keliling = (panjang + lebar) * 2)
 ```
