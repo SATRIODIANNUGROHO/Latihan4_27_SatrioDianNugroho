@@ -11,3 +11,10 @@ keliling = 2 * pi * jari-jari
 print luas dan keliling 
 
 # Flowchart #
+
+```mermaid
+graph TD;
+    A([Start])-->B{{double pi, jari-jari}};
+    B{{double pi, jari-jari}}-->C[/input jari-jari/];
+    C[/input jari-jari/]-->D(luas = pi * jari-jari * jari-jari\ keliling = 2 * pi * jari-jari);
+```
