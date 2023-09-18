@@ -15,4 +15,5 @@ graph TD;
   a([Start])-->b{{int panjang, lebar, luas, keliling}}
   b{{int panjang, lebar, luas, keliling}}-->c[/input panjang, lebar/]
   c[/input panjang, lebar/]-->d(luas = panjang * lebar keliling = (panjang + lebar) * 2)
+
 ```
