@@ -1,5 +1,5 @@
 # Luas dan Keliling Persegi Panjang #
-
+# Pseudocode #
 Deklarasi : float panjang, lebar, luas, keliling 
 
 input panjang = read panjang
@@ -9,7 +9,7 @@ luas = panjang * lebar
 keliling = (panjang + lebar) * 2
 
 print luas dan keliling
-
+# Flowchart #
 ```mermaid
 graph TD;
     A([Start])-->B{{int panjang, lebar, luas, keliling}};
