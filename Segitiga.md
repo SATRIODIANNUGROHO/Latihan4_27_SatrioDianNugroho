@@ -15,8 +15,8 @@ print luas dan keliling
 
 ```mermaid
 graph TD;
-    A([Start])-->B[/float alas, tinggi, sisi/];
-    B[/float alas, tinggi, sisi/]-->C;
+    A([Start])-->B{{alas, tinggi, sisi, luas, keliling}};
+    B{{alas, tinggi, sisi, luas, keliling}}-->C[/float alas, tinggi, sisi/];
     C-->D;
     D-->E;
     E-->F;
