@@ -10,3 +10,14 @@ luas = 0.5 * alas * tinggi\
 keliling = 3 * sisi
 
 print luas dan keliling
+
+# Flowchart #
+
+```mermaid
+graph TD;
+    A([Start])-->B[/float alas, tinggi, sisi/];
+    B[/float alas, tinggi, sisi/]-->C;
+    C-->D;
+    D-->E;
+    E-->F;
+```
