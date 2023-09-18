@@ -12,7 +12,7 @@ print luas dan keliling
 
 ```mermaid
 graph TD;
-    A-->B;
+    A(Start)-->B;
     A-->C;
     B-->D;
     C-->D;
